@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# ToDoList
+A To-Do List with Add, Edit, and Delete allows users to:  Add new tasks using an input field. Edit existing tasks inline or in a popup. Delete tasks after a confirmation prompt.
+>>>>>>> 7109ff73953a1ab80e844dbee303cdc1b1fd57c9
